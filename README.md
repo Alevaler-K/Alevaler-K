@@ -12,7 +12,7 @@
 * **API & Интеграции:** REST API, OpenAPI/Swagger, JSON, Postman, HTTP.
 * **Диаграммы и архитектура:** PlantUML (Sequence), BPMN, Draw.io, UML.
 * **Инструменты:** Git, GitHub / GitLab, Atlassian Confluence & Jira.
-* **Процессы:** CI/CD для документации, Code Review (Merge Requests).
+* **Процессы:** Code Review (Merge Requests).
 
 ---
 
