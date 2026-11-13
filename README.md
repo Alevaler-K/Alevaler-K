@@ -8,10 +8,10 @@
 
 ### 🛠 Стек и инструменты
 
-* **Документирование:** Markdown, Docs-as-Code, ReDoc / Swagger UI.
+* **Документирование:** Markdown, Docs-as-Code, Swagger UI.
 * **API & Интеграции:** REST API, OpenAPI/Swagger, JSON, Postman, HTTP.
 * **Диаграммы и архитектура:** PlantUML (Sequence), BPMN, Draw.io, UML.
-* **Инструменты:** Git, GitHub / GitLab, Atlassian Confluence & Jira.
+* **Инструменты:** VS Code, Git, GitHub / GitLab, Atlassian Confluence & Jira.
 * **Процессы:** Code Review (Merge Requests).
 
 ---
