@@ -6,13 +6,6 @@
   <img src="https://img.shields.io/badge/Location-Казань%20/%20Удаленно-blue?style=flat-square" alt="Location">
 </p>
 
-<!-- Кнопка-ссылка на портфолио -->
-<p align="center">
-  <a href="https://github.com/Alevaler-K/tech-writer-portfolio">
-    <img src="https://img.shields.io/badge/📂_Посмотреть_мое_портфолио-Tech_Writer_Portfolio-007EC6?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
 ---
 
 ### 🎯 Обо мне
@@ -52,13 +45,9 @@
 
 ---
 
-### 📊 Статистика активности
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alevaler-K&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alevaler-K&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+### 📂 Портфолио и проекты
+Здесь собраны примеры моих работ, спецификации API, руководства и схемы:
+- 👉 [Перейти в репозиторий портфолио (tech-writer-portfolio)](https://github.com/Alevaler-K/tech-writer-portfolio)
 
 ---
 
