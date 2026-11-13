@@ -1,5 +1,5 @@
 <h2 align="center">👋 Привет! Я Александр </h2>
-<h3 align="center">Технический писатель | Docs-as-Code & API Documentation</h3>
+<h3 align="center">Технический писатель | API Contracts & Docs-as-Code</h3>
 
 
 ---
