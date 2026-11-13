@@ -1,5 +1,5 @@
 <h2 align="center">👋 Привет! Я Александр </h2>
-<h3 align="center">Технический писатель | API Contracts & Docs-as-Code</h3>
+<h3 align="center">Технический писатель | REST API & OpenAPI Documentation</h3>
 
 
 ---
@@ -17,9 +17,11 @@
 <p>
   <!-- API & Formats -->
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/OpenAPI_/_Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   
   <!-- Docs as Code & VCS -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -33,6 +35,7 @@
   <!-- Diagrams -->
   <img src="https://img.shields.io/badge/BPMN-FF6F00?style=for-the-badge" alt="BPMN" />
   <img src="https://img.shields.io/badge/PlantUML-000000?style=for-the-badge" alt="PlantUML" />
+  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="Draw.io" />
 </p>
 
 ---
