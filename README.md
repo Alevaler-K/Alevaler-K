@@ -53,7 +53,7 @@
 
 ### 📂 Портфолио и проекты
 Примеры моих работ, спецификации API, руководства и схемы:
-- 👉 [Перейти в репозиторий портфолио (tech-writer-portfolio)](https://github.com/Alevaler-K/tech-writer-portfolio)
+- 👉 [Перейти в репозиторий портфолио (tech-writer-portfolio)]([https://github.com/Alevaler-K/it-support-and-implementation-portfolio])
 
 ---
 
