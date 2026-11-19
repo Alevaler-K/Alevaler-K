@@ -52,6 +52,7 @@
 ---
 
 ### 📂 Портфолио и проекты
+
 👉 [Перейти в репозиторий портфолио (it-support-and-implementation-portfolio)](https://github.com/Alevaler-K/it-support-and-implementation-portfolio)
 ---
 
