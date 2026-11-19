@@ -17,27 +17,25 @@
 
 ### 🛠️ Стек и инструменты:
 <p>
-  <!-- API & Formats -->
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/OpenAPI_/_Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  
-  <!-- Docs as Code & VCS -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-
-  <!-- Atlassian -->
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-
-  <!-- Diagrams -->
-  <img src="https://img.shields.io/badge/BPMN-FF6F00?style=for-the-badge" alt="BPMN" />
-  <img src="https://img.shields.io/badge/PlantUML-000000?style=for-the-badge" alt="PlantUML" />
-  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="Draw.io" />
+  <img src="https://img.shields.io/badge/REST%20API-02303A?style=flat-square&logo=rest-api&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAPI%20/%20Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/BPMN-F80000?style=flat-square&logo=bpmn&logoColor=white" />
+  <img src="https://img.shields.io/badge/UML-1F425F?style=flat-square" />
+  <img src="https://img.shields.io/badge/PlantUML-1D1D1D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagrams.me&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
 </p>
 
 ---
@@ -53,7 +51,9 @@
 
 ### 📂 Портфолио и проекты
 
-👉 [Перейти в репозиторий портфолио (it-support-and-implementation-portfolio)](https://github.com/Alevaler-K/it-support-and-implementation-portfolio)
+**Примеры моих работ (спецификации API, SQL-запросы, схемы процессов и руководства для поддержки):**
+
+👉 [Перейти в репозиторий](https://github.com/Alevaler-K/it-support-and-implementation-portfolio)
 ---
 
 ### 📬 Контакты:
