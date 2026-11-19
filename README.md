@@ -52,9 +52,7 @@
 ---
 
 ### 📂 Портфолио и проекты
-Примеры моих работ, спецификации API, руководства и схемы:
-- 👉 [Перейти в репозиторий портфолио (tech-writer-portfolio)]([https://github.com/Alevaler-K/it-support-and-implementation-portfolio])
-
+👉 [Перейти в репозиторий портфолио (it-support-and-implementation-portfolio)](https://github.com/Alevaler-K/it-support-and-implementation-portfolio)
 ---
 
 ### 📬 Контакты:
